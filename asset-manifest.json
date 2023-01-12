@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/reactastro/static/css/main.7fbcc85e.css",
-    "main.js": "/github.io/reactastro/static/js/main.210c29ff.js",
-    "static/js/787.4510a621.chunk.js": "/github.io/reactastro/static/js/787.4510a621.chunk.js",
-    "index.html": "/github.io/reactastro/index.html",
-    "main.7fbcc85e.css.map": "/github.io/reactastro/static/css/main.7fbcc85e.css.map",
-    "main.210c29ff.js.map": "/github.io/reactastro/static/js/main.210c29ff.js.map",
-    "787.4510a621.chunk.js.map": "/github.io/reactastro/static/js/787.4510a621.chunk.js.map"
+    "main.css": "/reactastro/static/css/main.7fbcc85e.css",
+    "main.js": "/reactastro/static/js/main.346071bc.js",
+    "static/js/787.4510a621.chunk.js": "/reactastro/static/js/787.4510a621.chunk.js",
+    "index.html": "/reactastro/index.html",
+    "main.7fbcc85e.css.map": "/reactastro/static/css/main.7fbcc85e.css.map",
+    "main.346071bc.js.map": "/reactastro/static/js/main.346071bc.js.map",
+    "787.4510a621.chunk.js.map": "/reactastro/static/js/787.4510a621.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fbcc85e.css",
-    "static/js/main.210c29ff.js"
+    "static/js/main.346071bc.js"
   ]
 }
